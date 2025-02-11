@@ -19,6 +19,7 @@ void mostrarYCalcular(List<int> numeros) {
 void main() {
   // Obtener la lista de números 
   print('Isaac Jimenez Hernandez Mat:22308051281347');
+  print('Escribe un programa que tome una lista de números enteros (int) y calcule la suma de todos sus elementos.');
   List<int> numeros = obtenerLista();
 
   // Mostrar los elementos y calcular la suma
