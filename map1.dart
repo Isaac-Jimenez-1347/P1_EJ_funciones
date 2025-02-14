@@ -15,6 +15,7 @@ void main() {
     12: 'Diciembre',
   };
 
+print('tabla empleado');
   // Recorrer el mapa e imprimir cada par clave-valor
   //usando forEach
   mesesDelAnio.forEach((numeroMes, nombreMes) {
@@ -24,4 +25,24 @@ void main() {
   // Acceder a un valor específico usando su clave
   int mesActual = 5;
   print('\nEl mes número $mesActual es: ${mesesDelAnio[mesActual]}');
+
+  print('tabla cliente');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  print('tabla sucursal');
 }
